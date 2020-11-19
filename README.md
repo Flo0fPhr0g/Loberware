@@ -7,6 +7,8 @@ Loberware Is a Minecraft Utility Mod aimed at anarchy minecraft servers with a f
 Gamesense is going to be used as base, with other modules taken from other clients
 
 # Credits:
+IUDevman for gamesense
+
 Gamesense For a base and most modules
 
 Flo0f_Phr0g for all the coding work
